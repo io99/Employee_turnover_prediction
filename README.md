@@ -39,4 +39,4 @@ _I’ll be following a typical data science pipeline, which is call “OSEMN” 
 - [Data](https://github.com/io99/Employee_turnover_prediction/blob/master/HR.csv)
  - [Analysis and Modelling ](https://github.com/io99/Employee_turnover_prediction/blob/master/employee_turnover_prediction.ipynb)
 # Contact
--   Feel free to contact team leads with any questions or if you are interested in contributing!
+-   If you have any questions, feel free to contact me.
