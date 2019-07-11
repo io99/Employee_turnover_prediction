@@ -5,9 +5,11 @@
 # The Problem
 
 ***Employee turnover refers to the number or percentage of workers who leave an organization and are replaced by new employees.*** 
+
 According to the Center of American Progress it costs about $10,000 to replace a working earning $50,000 per year, i.e 20% of their income.
 
 Replacing a high-level employee can cost multiple of that.
+
  ● Cost of off-boarding 
  ● Cost of hiring (advertising, interviewing, hiring) 
  ● Cost of onboarding a new person (training, management time) 
