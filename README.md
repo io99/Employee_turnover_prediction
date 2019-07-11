@@ -11,10 +11,12 @@ According to the Center of American Progress it costs about $10,000 to replace a
 Replacing a high-level employee can cost multiple of that.
 
  ● Cost of off-boarding 
+ 
  ● Cost of hiring (advertising, interviewing, hiring) 
+ 
  ● Cost of onboarding a new person (training, management time) 
+ 
  ● Lost productivity (a new person may take 1-2 years to reach the    productivity of an existing person) 
- Source: (https://cnmsocal.org/featured/true-cost-of-employee -turnover/)
 
 ## Objective
   
